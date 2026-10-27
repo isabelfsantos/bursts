@@ -1,2 +1,2 @@
 # bursts
-short code tthat makes cool things
+short code that makes cool things
