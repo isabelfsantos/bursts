@@ -1,2 +1,2 @@
 # bursts
-short code that makes cool things
+Bite-sized scripts (<20 lines) and cool algorithms found around the web.
